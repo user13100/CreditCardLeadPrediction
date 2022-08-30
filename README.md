@@ -9,5 +9,5 @@ In this case, the Happy Customer Bank wants to cross sell its credit cards to it
 
 Now, the bank is looking for your help in identifying customers that could show higher intent towards a recommended credit card, given:
 
-Customer details (gender, age, region etc.)
-Details of his/her relationship with the bank (Channel_Code,Vintage, 'Avg_Asset_Value etc.)
+- Customer details (gender, age, region etc.)
+- Details of his/her relationship with the bank (Channel_Code,Vintage, 'Avg_Asset_Value etc.)
